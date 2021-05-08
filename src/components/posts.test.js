@@ -16,8 +16,4 @@ test('renders posts if request is successful', () => {
 
 })
 
-
-
-
-
 });

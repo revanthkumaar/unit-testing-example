@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 
-import ProductPage from './components/product-page';
+import Async from './components/posts.component';
 
 function App() {
   return (
     <div className="App">
-      <ProductPage/>
+      <Async/>
     </div>
   );
 }

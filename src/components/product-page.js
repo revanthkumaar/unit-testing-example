@@ -1,3 +1,5 @@
+
+/*
 import {useState} from 'react-redux';
 
 
@@ -27,3 +29,5 @@ const changedTextHandler = () => {
 }
 
 export default ProductPage;
+
+*/
